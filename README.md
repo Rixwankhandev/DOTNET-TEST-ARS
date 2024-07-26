@@ -6,22 +6,26 @@ This project involves developing a straightforward E-Commerce Product Catalog th
 
 # Product Catalog Features
 
-**Listing View**
+**Listing View:**
 The listing page should enable users to filter products based on Name, Price, and Category (Brakes, Engine, Suspension). Ensure the design is mobile-responsive and incorporates pagination. When a filter is applied, the product listing should be updated using partial views.
+
 ![listing-page](https://github.com/user-attachments/assets/778d2a1d-f099-4543-a229-a6d7a757b73e)
 
-**View Popup**
+**View Popup:**
 Users can click on the View icon in the Listing View to open a popup displaying detailed product information. Each product will have multiple images, which should be presented in a carousel/slider format.
+
 ![prod-view](https://github.com/user-attachments/assets/154f96fb-10dd-4520-bdbf-3fb8d5bdfdf2)
 
 
-**Edit Popup**
+**Edit Popup:**
 Clicking the Edit icon will open a popup (as shown in the provided image) where users can update all product properties except the SKU, which remains fixed. After a successful update, the Listing View should be refreshed upon clicking OK.
+
 ![edit-view](https://github.com/user-attachments/assets/b6855e3d-d92d-4248-865f-bffa8d817bdd)
 
 
-**Delete Popup**
+**Delete Popup:**
 Clicking the Delete icon will open a confirmation alert for deleting the product. Upon confirmation, the product will be deleted, and a success alert will be displayed. The Listing View should be refreshed based on the success response upon clicking OK.
+
 ![delete-view](https://github.com/user-attachments/assets/8c5115f7-9e75-4e24-b204-4f7788d3e66d)
 
 
