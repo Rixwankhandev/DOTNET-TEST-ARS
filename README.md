@@ -1,4 +1,4 @@
-# PROD-CAT-DN-TEST
+# DOTNET-TEST-ARS
 E-Commerce Product Catalog Management System
 
 # E-Commerce Product Catalog
